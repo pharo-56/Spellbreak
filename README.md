@@ -228,4 +228,4 @@ Spellbreak is offered as a complete free version with all features and updates i
 Get started on your magical journey today! Download Spellbreak now and join the battle in the Shadowlands!
 
 ---
-**Last updated:** 2026-10-24 15:07:54 UTC
+**Last updated:** 2026-10-24 18:28:39 UTC
